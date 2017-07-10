@@ -1,0 +1,54 @@
+1. boolean, null, undefind
+
+2. false, NaN, " "
+
+3. var isLoggenIn = false;
+	if(isLoggedIn != true) {
+	console.log('Sorry you must log in');
+	else {
+	console.log('You logged in');
+	}
+
+4. for (var i = 9; i < 34, i++);
+	{console.log(i);
+		}
+
+5. function createEntery(entry);
+	return(entry);
+
+	createEntry('Grant');
+
+6. var detroitTeam ['Lions', 'Pistons', 'Red Wings', 'Tigers'];
+	detroitTeam.forEach(function(team) {
+		console.log(team)l;
+	});
+	
+7. var myInfo = {name: 'My Name',
+		 lastName : 'Last Name',
+		 age: 'My Age'};
+	console.log(myInfo.lastname);
+
+8. var id = summary;
+	document.body.innerText.html('JavaScript is the best');
+
+9. create.element.html(javaScript);
+
+10. var phoneBook = [
+	
+		{name: “Grant Chirpus”,
+		 number: 1234567890},
+		
+		{name: “Taylor Swift”,
+		 number: 1234567890},
+
+		{name: “Rocky Balboa”,
+		 number: 1238675309},
+		
+		{name: “Indiana Jones",
+		 number: 5555555555}	
+		];
+	
+	for (var i = 0; i < phoneBook.length; i++);
+		console.log(i);
+
+
